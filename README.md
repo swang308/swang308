@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abby</h1>
 <h3 align="center">A passionate developer from located in Toronto, Canada</h3>
 
-- 📫 How to reach me **swang308@myseneca.ca**
+- 📫 How to reach me **shanyunwang.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
